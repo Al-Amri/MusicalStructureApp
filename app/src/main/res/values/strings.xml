@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Music App</string>
+
+    <string name="App_InfoHeader">The Music app lets you pull Songs, Albums and Artists from the internet</string>
+
+    <string name="CategoryArtists_InfoHeader">This Activity shows all the Artists</string>
+    <string name="CategoryArtistDetails_InfoHeader">This Activity shows details of the selected artist</string>
+    <string name="Artists_Category">Artists</string>
+    <string name="ArtistDetails_HowTo">"How do we get the text/id of the artist that was clicked from the previous activity? Once we figure out, how do we get details of the artist over the internet?"</string>
+    <string name="Artists_Activity_Title">Artists</string>
+    <string name="Artist_Details_Activity_Title">Artist Details</string>
+
+    <string name="Albums_Category">Albums</string>
+    <string name="CategoryAlbum_InfoHeader">How to pull a set of albums dynamically from the internet?</string>
+    <string name="CategoryAlbumDetails_InfoHeader">This Activity shows details of the selected album</string>
+    <string name="AlbumDetails_HowTo">"How do we get the text/id of the album that was clicked from the previous activity? Once we figure out, how do we get details of the album over the internet?"</string>
+    <string name="Albums_Activity_Title">Albums</string>
+    <string name="Album_Details_Activity_Title">Album Details</string>
+
+    <string name="CategorySongs_InfoHeader">How to pull a set of songs dynamically from the internet? Click song to play it</string>
+    <string name="CategorySongDetails_InfoHeader">This Activity shows details of the selected song</string>
+    <string name="CategorySongDetails_HowTo">How do we get the text/id of the song that was clicked from the previous activity? Once we figure out, how do we add controls to play, pause, rewind the song?</string>
+    <string name="Songs_Category">Songs</string>
+    <string name="Songs_Activity_Title">Songs</string>
+    <string name="Songs_Details_Activity_Title">Song Details</string>
+
+    <string name="artist1">Drake</string>
+    <string name="artist1_album1">Views</string>
+    <string name="artist1_album1_song1">9</string>
+
+</resources>
